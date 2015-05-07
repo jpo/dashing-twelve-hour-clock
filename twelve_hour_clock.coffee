@@ -15,7 +15,7 @@ class Dashing.TwelveHourClock extends Dashing.Widget
     ((i + 11) %% 12) + 1
 
   getMeridiem: (i) ->
-    if i >= 12 then "PM" else "AM"
+    if i < 12 then "AM" else "PM"
 
   formatTime: (i) ->
     if i < 10 then "0" + i else i
