@@ -1,10 +1,10 @@
-# Dashing - 12 Hour Clock Widget
+# Dashing - 12 Hour Clock
 
 This widget displays the current time as a 12-hour clock.
 
 ## Installation:
 
-From the root of your dashing project, run the following command:
+Open a shell and run this command from the root of your dashing project:
 
 ```bash
 dashing install 6e2f80b4812c5b9474f3
