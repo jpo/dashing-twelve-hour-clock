@@ -1,4 +1,4 @@
-# Dashing 12 Hour Clock Widget
+# Dashing - 12 Hour Clock Widget
 
 This widget displays the current time as a 12-hour clock.
 
